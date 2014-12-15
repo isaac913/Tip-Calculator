@@ -14,4 +14,5 @@ Optional stories:
   Walk through:
 ![alt tag](https://github.com/isaac913/Tip-Calculator/blob/master/readme/tip%20calculator.gif)
 
+GIF created with LiceCap.
 Tip Calculator
