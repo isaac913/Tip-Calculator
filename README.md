@@ -12,7 +12,7 @@ Optional stories:
   bill amount can not excess 50,000,000
   
   Walk through:
-![alt tag](https://github.com/isaac913/Tip-Calculator/blob/master/readme/tip%20calculator.gif)
+![alt tag](https://github.com/isaac913/Tip-Calculator/blob/master/TipCalculator/tip%20calculator.gif)
 
 GIF created with LiceCap.
 Tip Calculator
