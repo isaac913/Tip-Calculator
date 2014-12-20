@@ -9,13 +9,12 @@
 import UIKit
 
 class SettingsViewController: UIViewController {
-    var initialSeletedIndex : Int = 0;
     
     @IBOutlet weak var defaultTipPercentageControl: UISegmentedControl!
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        defaultTipPercentageControl.selectedSegmentIndex = initialSeletedIndex;
+        defaultTipPercentageControl.selectedSegmentIndex = NSUserDefaults.standardUserDefaults().integerForKey("initPercentage");
         // Do any additional setup after loading the view.
     }
     

@@ -149,12 +149,6 @@ class TipCalculatorViewController: UIViewController, UITextFieldDelegate {
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject!) {
-        if segue.identifier == "goSetting"
-        {
-            let vc = segue.destinationViewController as SettingsViewController;
-            
-            vc.initialSeletedIndex = percentSegmentController.selectedSegmentIndex;
-        }
     }
     
     
