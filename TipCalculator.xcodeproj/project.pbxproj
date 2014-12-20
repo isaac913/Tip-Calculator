@@ -13,6 +13,7 @@
 		DD1704DB1A3EB650007C609F /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1704DA1A3EB650007C609F /* TipCalculatorTests.swift */; };
 		DD1704E51A3EC152007C609F /* TipCalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1704E41A3EC152007C609F /* TipCalculatorViewController.swift */; };
 		DD1704E91A3EE268007C609F /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD1704E81A3EE268007C609F /* dog.jpg */; };
+		DDC2394E1A43CD5E0095C8FB /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC2394D1A43CD5E0095C8FB /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		DD1704DA1A3EB650007C609F /* TipCalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorTests.swift; sourceTree = "<group>"; };
 		DD1704E41A3EC152007C609F /* TipCalculatorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipCalculatorViewController.swift; sourceTree = SOURCE_ROOT; };
 		DD1704E81A3EE268007C609F /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog.jpg; sourceTree = "<group>"; };
+		DDC2394D1A43CD5E0095C8FB /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				DD1704CB1A3EB650007C609F /* Main.storyboard */,
 				DD1704CE1A3EB650007C609F /* Images.xcassets */,
 				DD1704C51A3EB650007C609F /* Supporting Files */,
+				DDC2394D1A43CD5E0095C8FB /* SettingsViewController.swift */,
 			);
 			path = TipCalculator;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			files = (
 				DD1704E51A3EC152007C609F /* TipCalculatorViewController.swift in Sources */,
 				DD1704C81A3EB650007C609F /* AppDelegate.swift in Sources */,
+				DDC2394E1A43CD5E0095C8FB /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
